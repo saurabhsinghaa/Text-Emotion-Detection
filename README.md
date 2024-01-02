@@ -22,15 +22,15 @@ A dynamic bar graph is generated to visualize the prediction probabilities for e
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot](./readme-data/one_img.png)
+![App Screenshot](./readme-data/two_img.png)
 
 ## Usage
 
 1. Clone the repository
 
 ```bash
-  git clone https://github.com/your-username/emotion-detection-app.git
+  git clone https://github.com/saurabhsinghaa/Text-Emotion-Detection.git
 
 ```
 2. Use **cd** command in **Terminal** and go to the **Text-Emotion-Detection** directory (where app.py file is present).
@@ -41,7 +41,7 @@ A dynamic bar graph is generated to visualize the prediction probabilities for e
   streamlit run app.py
 
 ```
-    
+4. **Access the Application:** Open your web browser and navigate to http://localhost:8501 to interact with the emotion detection application.   
 ## Authors
 
 - [@saurabhsinghaa](https://www.github.com/saurabhsinghaa)
